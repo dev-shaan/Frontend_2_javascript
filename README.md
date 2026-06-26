@@ -7,6 +7,7 @@ Welcome to my JavaScript development . This repository serves as a centralized h
 Instead of browsing raw code, you can test the production builds directly via GitHub Pages:
 
 * 🎲 [Dicee Challenge Live Game](https://dev-shaan.github.io/Frontend_2_javascript/DiceeChallenge/dicee.html)
+* 🥁 [Drum kit project](https://dev-shaan.github.io/Frontend_2_javascript/Drum%20Kit/index.html)
 
 ---
 
