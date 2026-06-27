@@ -8,6 +8,7 @@ Instead of browsing raw code, you can test the production builds directly via Gi
 
 * 🎲 [Dicee Challenge Live Game](https://dev-shaan.github.io/Frontend_2_javascript/DiceeChallenge/dicee.html)
 * 🥁 [Drum kit project](https://dev-shaan.github.io/Frontend_2_javascript/Drum%20Kit/index.html)
+* 👾 [Simon game project](https://dev-shaan.github.io/Frontend_2_javascript/SimonGame/index.html)
 
 ---
 
