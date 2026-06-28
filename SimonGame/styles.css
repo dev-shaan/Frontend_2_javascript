@@ -46,8 +46,34 @@ body {
 .yellow {
   background-color: yellow;
 }
+.press-to-start {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.5rem;
+  color: #FEF2BF;
+  margin-top: 20px;
+  visibility: hidden;
+}
 
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+@media (max-width: 600px) {
+  
+
+  #level-title {
+    font-size: 2rem;
+    margin: 10%;
+
+  }
+  .press-to-start {
+    font-size: 1rem;
+    margin-top: 20px;
+    line-height: 2rem;
+    border: 2px solid #FEF2BF;
+    border-radius: 10px;
+    text-align: center;
+    visibility:visible;
+  }
+
 }
