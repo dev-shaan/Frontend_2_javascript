@@ -59,7 +59,23 @@ body {
   background-color: grey;
 }
 @media (max-width: 600px) {
-  
+  .container {
+    width: 100%;
+    padding: 0 12px;
+    box-sizing: border-box;
+  }
+
+  .row {
+    display: flex;
+    justify-content: center;
+  }
+
+  .btn {
+    width: clamp(110px, 38vw, 150px);
+    height: clamp(110px, 38vw, 150px);
+    margin: 10px;
+    border-width: 8px;
+  }
 
   #level-title {
     font-size: 2rem;
